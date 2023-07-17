@@ -5,6 +5,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [Front-End](#frond-end)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -28,6 +29,9 @@
 
 **[Hello rails backend]** is an api that generates random greetings.
 
+## Front-End <a name="frond-end"></a>
+- The api is consumed by this [React project](https://github.com/stephenkati/hello-react-front-end/)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -37,13 +41,9 @@
   <ul>
     <li><a>https://rubyonrails.org/</a></li>
   </ul>
-  <summary>React</summary>
+  <summary>Postgres</summary>
   <ul>
-    <li><a>https://react.dev/</a></li>
-  </ul>
-  <summary>Redux</summary>
-  <ul>
-    <li><a>https://redux.js.org/</a></li>
+    <li><a>https://www.postgresql.org/</a></li>
   </ul>
 </details>
 
